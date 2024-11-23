@@ -1,1 +1,1 @@
-const nama ='Ade'
+const nomor = 1
